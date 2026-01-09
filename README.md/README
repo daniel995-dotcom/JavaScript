@@ -1,0 +1,13 @@
+# Galería Interactiva con JavaScript
+
+Este proyecto consiste en una galería de imágenes interactiva desarrollada con HTML, CSS y JavaScript.
+
+## Funcionalidades
+- Agregar imágenes mediante una URL.
+- Seleccionar imágenes con un clic.
+- Eliminar la imagen seleccionada.
+- Diseño responsivo usando CSS Grid.
+- Eventos del DOM y manejo de teclado.
+
+## Publicación
+El proyecto fue publicado usando GitHub Pages.
